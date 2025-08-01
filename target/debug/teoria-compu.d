@@ -1,0 +1,1 @@
+/Users/fabianprado/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/projects/teoria-compu/target/debug/teoria-compu: /Users/fabianprado/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/projects/teoria-compu/src/main.rs
